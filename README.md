@@ -3,6 +3,8 @@
 <p align="left">
     Simple single page, using: React, TailWind, TypeScript, react-hook-form, react-anchor-link-smooth-scroll, framer-motion.
     The Idea and design from <i>EdRoh</i> youtube channel.<br/> Live demo <a href="https://workout-with-typescript.netlify.app" target="_blank">here</a>
+    If you want to improve/work on it, just fork it, run npm i and go ahead :)
+</p>
 
 ![image](https://user-images.githubusercontent.com/82774076/224006808-52b541c5-31e2-4512-a01c-cb2ad53ad8e7.png)
 ![image](https://user-images.githubusercontent.com/82774076/224006933-f5fae6d9-5646-4a8f-bd29-837bc232914a.png)
