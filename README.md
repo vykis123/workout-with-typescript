@@ -2,7 +2,7 @@
 
 <p align="left">
     Simple single page, using: React, TailWind, TypeScript, react-hook-form, react-anchor-link-smooth-scroll, framer-motion.
-    The Idea and design from <i>EdRoh</i> youtube channel.<br/> Live demo here
+    The Idea and design from <i>EdRoh</i> youtube channel.<br/> Live demo here[workout-with-typescript.netlify.app]
 </p>
 
 ![image](https://user-images.githubusercontent.com/82774076/224006808-52b541c5-31e2-4512-a01c-cb2ad53ad8e7.png)
